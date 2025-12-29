@@ -2,7 +2,7 @@
 
 Uma rede social moderna desenvolvida em **React 18** com **TypeScript**, apresentando um feed dinâmico de posts com sistema de comentários e interações em tempo real.
 
-![Ignite Feed em ação]([(https://imgur.com/a/OMqKtF2)]
+![Ignite Feed em ação](./src/assets/Feed.jpeg)
 
 ---
 
